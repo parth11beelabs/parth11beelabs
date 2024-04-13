@@ -2,6 +2,7 @@
 
 
 # 💫    <span align="center"> <strong> Back End Developer </strong>  </span>
+ <strong> ![Static Badge](https://img.shields.io/badge/Current%20Project%20%3A--8B4BA3?style=social&link=https%3A%2F%2Fwww.jobsyahan.com%2Fen)   </strong> [![JobsYahan](https://jobsyahan-v3.s3.ap-south-1.amazonaws.com/svg-icons/jobsyahaanmain.svg?logo=Github&logoColor=White)](https://www.jobsyahan.com/en) 
 
 🤝 Specialize in developing secure and scalable REST APIs, emphasizing clean and modular code with proactive issue management.
 
