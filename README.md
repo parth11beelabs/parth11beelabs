@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth23saxena/) [![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/saxena100parth) [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=Black)](https://github.com/saxena100parth) 
 
 ### 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23324440.svg?style=flat&logo=typescript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
