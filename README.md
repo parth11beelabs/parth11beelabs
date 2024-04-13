@@ -1,4 +1,4 @@
-<img  align="right" width="249" src = "https://www.beelabs.technology/assets/img/others/logo.png"> 
+<img  align="right" width="240" src = "https://www.beelabs.technology/assets/img/others/logo.png"> 
 
 
 # 💫    <span align="center"> <strong> Back End Developer </strong>  </span>
